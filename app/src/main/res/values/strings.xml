@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sweetdreams 2.0</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_middayfood">middayfood</string>
+    <string name="title_activity_dinner">dinner</string>
+</resources>
